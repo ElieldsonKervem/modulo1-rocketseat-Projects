@@ -56,3 +56,4 @@ Adicionar um formulário de contato no rodapé.
 Licença
 Este projeto é de código aberto. Sinta-se à vontade para usar e modificar para fins pessoais ou educacionais.
 
+![{2CE7A24C-A505-4FD1-96C7-7A16F77A8F75}](https://github.com/user-attachments/assets/02dd355d-1306-41a8-a120-3b49a6b986d7)
